@@ -1,0 +1,8 @@
+# Ignore compiled or temporary files
+*.exe
+*.bak
+*.tmp
+*.log
+
+# AutoHotkey backup files
+*.ahk~*
